@@ -1,5 +1,5 @@
 <p align="center"> 
-  <h1><strong>Universal AI Thinking Protocol</strong></h1>
+  <h1><strong>Universal AI LLM Thinking Protocol</strong></h1>
 </p>
 
 ---
