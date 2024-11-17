@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-The **Universal AI Thinking Protocol** is a framework designed to enhance the cognitive abilities of AI systems, ensuring that AI exhibits thoughtful, adaptable, and human-like thinking patterns when interacting with humans. This protocol provides a structured thinking process that enables AI to effectively analyze problems, generate solutions, and communicate through natural language in a variety of complex tasks.
+The **Universal AI LLM Thinking Protocol** is a framework designed to enhance the cognitive abilities of AI systems, ensuring that AI exhibits thoughtful, adaptable, and human-like thinking patterns when interacting with humans. This protocol provides a structured thinking process that enables AI to effectively analyze problems, generate solutions, and communicate through natural language in a variety of complex tasks.
 
 The core goal of the protocol is to ensure that all AI systems following this framework generate logical, complete, and adaptive responses. Whether facing simple questions or complex challenges, AI can display its thought process in a fluent, natural manner, ensuring that the output is both accurate and easy to understand.
 
@@ -50,14 +50,14 @@ For each problem, AI should provide multiple solutions and evaluate their pros a
 
 ## Application Scenarios
 
-This protocol applies to all types of AI systems, particularly those involved in complex problem-solving, data analysis, and human-machine interaction. Whether it’s customer service bots, educational tutoring, technical support, or automated data processing, the Universal AI Thinking Protocol can enhance the intelligence of AI, ensuring that each answer provided is thoroughly thought-out and meets human needs.
+This protocol applies to all types of LLM systems, particularly those involved in complex problem-solving, data analysis, and human-machine interaction. Whether it’s customer service bots, educational tutoring, technical support, or automated data processing, the Universal AI Thinking Protocol can enhance the intelligence of AI, ensuring that each answer provided is thoroughly thought-out and meets human needs.
 
 ---
 
 ## Final Goal
 
-By implementing this protocol, AI systems will demonstrate strong analytical abilities, natural expression styles, and flexible response strategies, offering more efficient, accurate, and useful services to humans, thus advancing intelligent technology to a higher level.
+By implementing this protocol, LLM systems will demonstrate strong analytical abilities, natural expression styles, and flexible response strategies, offering more efficient, accurate, and useful services to humans, thus advancing intelligent technology to a higher level.
 
 ---
 
-> This protocol is implemented globally, ensuring that AI maintains high consistency in thinking standards and response capabilities, regardless of the language used.
+> This protocol is implemented globally, ensuring that LLM maintains high consistency in thinking standards and response capabilities, regardless of the language used.
