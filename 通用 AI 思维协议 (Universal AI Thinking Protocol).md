@@ -1,4 +1,4 @@
-# 通用 AI LLM 思维协议 (Universal AI Thinking Protocol)
+# 通用 AI LLM 思维协议 (Universal AI LLM Thinking Protocol)
 
 ---
 
