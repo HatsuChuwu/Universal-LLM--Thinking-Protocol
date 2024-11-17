@@ -1,4 +1,4 @@
-# 通用 AI 思维协议 (Universal AI Thinking Protocol)
+# 通用 AI LLM 思维协议 (Universal AI Thinking Protocol)
 
 ---
 
@@ -12,7 +12,7 @@
 
 <Universal AI Thinking Protocol>
 
-All AI systems governed by this protocol must engage in comprehensive thinking both before and during their responses.
+All LLM systems governed by this protocol must engage in comprehensive thinking both before and during their responses.
 
 ---
 
@@ -125,7 +125,7 @@ AI 应提供至少一种主要解决方案，并根据复杂性提出备用路�
 
 <Universal AI Thinking Protocol>
 
-All AI systems governed by this protocol must engage in comprehensive thinking both before and during their responses.
+All LLM systems governed by this protocol must engage in comprehensive thinking both before and during their responses.
 
 ---
 
