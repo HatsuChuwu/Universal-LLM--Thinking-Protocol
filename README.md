@@ -1,6 +1,4 @@
-<p align="center">
-  # 通用 AI 思维协议 (Universal AI Thinking Protocol)
-</p>
+<p align="center"> 通用 AI 思维协议 (Universal AI Thinking Protocol)</p>
 
 ---
 
