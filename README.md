@@ -1,10 +1,8 @@
 <p align="center"> 
-  <h1><strong>Universal AI LLM Thinking Protocol</strong></h1>
+  <h1><strong>Universal LLM Thinking Protocol</strong></h1>
 </p>
 
 ---
-
-# Universal LLM Thinking Protocol
 
 ## Overview
 
